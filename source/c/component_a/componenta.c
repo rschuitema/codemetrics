@@ -11,15 +11,5 @@
  */
 int sum(int p1, int p2, int p3, int p4, int p5, int p6, int p7)
 {
-    if (p1 == 1)
-    {
-        if (p2 == 2)
-        {
-            if (p3 == 3)
-            {
-                p7 = 9;
-            }
-        }
-    }
     return 0;
 }

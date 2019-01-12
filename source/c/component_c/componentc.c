@@ -61,3 +61,159 @@ int multiply(int p1, int p2)
 
 	return 0;
 }
+
+int multiply2(int p1, int p2)
+{
+	int sum =0;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	return 0;
+}
+
+int multiply3(int p1, int p2)
+{
+	int sum =0;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	return 0;
+}
+
+int multiply4(int p1, int p2)
+{
+	int sum =0;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+	
+	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p1;
+	sum += p2;
+
+	return 0;
+}

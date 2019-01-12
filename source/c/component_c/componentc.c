@@ -29,5 +29,35 @@ int multiply(int p1, int p2, int p3, int p4)
 	sum += p3;
 	sum += p4;
 
+	sum += p1;
+	sum += p2;
+	sum += p3;
+	sum += p4;
+	
+	sum += p1;
+	sum += p2;
+	sum += p3;
+	sum += p4;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p3;
+	sum += p4;
+
+	sum += p1;
+	sum += p2;
+	sum += p3;
+	sum += p4;
+	
+	sum += p1;
+	sum += p2;
+	sum += p3;
+	sum += p4;
+
+ 	sum += p1;
+	sum += p2;
+	sum += p3;
+	sum += p4;
+
 	return 0;
 }
